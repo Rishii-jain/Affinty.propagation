@@ -1,5 +1,5 @@
 # Affinty.propagation
-This code is the C++ implementation of affinity propagation, a clustering algorithm by passing messages between data points. In this code, I cluster datasets ic which ach of the participants is represented as a data point in a 5 dimensional space.
+This code is the C++ implementation of affinity propagation, a clustering algorithm by passing messages between data points. In this code, I cluster datasets which ach of the participants is represented as a data point in a 5 dimensional space.
 
 The code is based on Cory Maklin publication about affinity propagation.
 
