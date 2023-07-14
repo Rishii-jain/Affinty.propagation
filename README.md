@@ -5,9 +5,9 @@ The code is based on Cory Maklin publication about affinity propagation.
 
 https://towardsdatascience.com/unsupervised-machine-learning-affinity-propagation-algorithm-explained-d1fef85f22c8
 
-#Input
+# Input
 The code utilizes a 5x5 matrix as input, sourced directly from Cory Maklin's publication in Towards Data Science.
 
-#Acknowledgment
+# Acknowledgment
 Reference : https://github.com/jincheng9/AffinityPropagation
 Guidance : https://towardsdatascience.com/unsupervised-machine-learning-affinity-propagation-algorithm-explained-d1fef85f22c8
